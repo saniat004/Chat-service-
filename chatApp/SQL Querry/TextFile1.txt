@@ -1,0 +1,12 @@
+﻿/*
+Qyery for creating the table in postgres
+*/
+
+CREATE TABLE public.tbluser(userid integer NOT NULL,  email text COLLATE pg_catalog.  
+    "default"  
+    NOT NULL, mobile text COLLATE pg_catalog.  
+    "default"  
+    NOT NULL, password text COLLATE pg_catalog.  
+    "default"  
+    NOT NULL, dob date NOT NULL, CONSTRAINT tbluser_pkey PRIMARY KEY(userid)) 
+   as

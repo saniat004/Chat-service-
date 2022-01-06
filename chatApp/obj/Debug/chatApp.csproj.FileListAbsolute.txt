@@ -1,0 +1,372 @@
+C:\Users\Amilkar\source\repos\chatApp\chatApp\obj\Debug\chatApp.csprojAssemblyReference.cache
+C:\Users\Amilkar\source\repos\chatApp\chatApp\obj\Debug\chatApp.csproj.CoreCompileInputs.cache
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\chatApp.dll.config
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\chatApp.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\chatApp.pdb
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\csc.exe
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\csc.exe.config
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\csc.rsp
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\csi.exe
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\csi.exe.config
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\csi.rsp
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.AppContext.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Console.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\vbc.exe
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\vbc.exe.config
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\vbc.rsp
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\netstandard.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.AppContext.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Collections.Concurrent.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Collections.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Collections.NonGeneric.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Collections.Specialized.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.ComponentModel.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.ComponentModel.Primitives.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Console.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Data.Common.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.Contracts.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.Debug.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.Process.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.Tools.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.Tracing.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Drawing.Primitives.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Dynamic.Runtime.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Globalization.Calendars.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Globalization.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Globalization.Extensions.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.Compression.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.FileSystem.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.IsolatedStorage.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.Pipes.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Linq.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Linq.Expressions.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Linq.Parallel.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Linq.Queryable.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.Http.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.NameResolution.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.NetworkInformation.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.Ping.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.Primitives.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.Requests.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.Security.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.Sockets.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.WebSockets.Client.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Net.WebSockets.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.ObjectModel.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Reflection.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Reflection.Extensions.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Reflection.Primitives.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Resources.Reader.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Resources.ResourceManager.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Resources.Writer.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.Extensions.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.Handles.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.InteropServices.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.Numerics.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Security.Claims.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Security.Principal.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Security.SecureString.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Text.Encoding.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Text.RegularExpressions.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Threading.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Threading.Overlapped.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Threading.Tasks.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Threading.Thread.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Threading.ThreadPool.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Threading.Timer.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Xml.ReaderWriter.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Xml.XDocument.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Xml.XmlDocument.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Xml.XmlSerializer.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Xml.XPath.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Antlr3.Runtime.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Newtonsoft.Json.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Npgsql.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\RabbitMQ.Client.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.ValueTuple.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.Helpers.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.Mvc.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.Optimization.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.Razor.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.WebPages.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\WebGrease.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Npgsql.pdb
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Npgsql.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\RabbitMQ.Client.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.ValueTuple.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.Helpers.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.Mvc.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.Optimization.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.Razor.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.WebPages.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Newtonsoft.Json.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Antlr3.Runtime.pdb
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amilkar\source\repos\chatApp\chatApp\obj\Debug\chatApp.csproj.CopyComplete
+C:\Users\Amilkar\source\repos\chatApp\chatApp\obj\Debug\chatApp.dll
+C:\Users\Amilkar\source\repos\chatApp\chatApp\obj\Debug\chatApp.pdb
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\chatApp.dll.config
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\chatApp.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\chatApp.pdb
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\csc.exe
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\csc.exe.config
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\csc.rsp
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\csi.exe
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\csi.exe.config
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\csi.rsp
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.AppContext.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Console.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.IO.Compression.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.IO.Pipes.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Security.Claims.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.ValueTuple.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Xml.XPath.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\vbc.exe
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\vbc.exe.config
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\vbc.rsp
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\VBCSCompiler.exe
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Microsoft.Win32.Primitives.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\netstandard.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.AppContext.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Collections.Concurrent.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Collections.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Collections.NonGeneric.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Collections.Specialized.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.ComponentModel.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.ComponentModel.Primitives.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.ComponentModel.TypeConverter.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Console.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Data.Common.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.Contracts.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.Debug.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.Process.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.StackTrace.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.Tools.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.TraceSource.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.Tracing.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Drawing.Primitives.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Dynamic.Runtime.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Globalization.Calendars.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Globalization.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Globalization.Extensions.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.Compression.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.Compression.ZipFile.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.FileSystem.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.FileSystem.Primitives.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.FileSystem.Watcher.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.IsolatedStorage.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.MemoryMappedFiles.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.Pipes.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Linq.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Linq.Expressions.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Linq.Parallel.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Linq.Queryable.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.Http.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.NameResolution.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.NetworkInformation.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.Ping.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.Primitives.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.Requests.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.Security.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.Sockets.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.WebHeaderCollection.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.WebSockets.Client.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Net.WebSockets.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.ObjectModel.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Reflection.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Reflection.Extensions.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Reflection.Primitives.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Resources.Reader.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Resources.ResourceManager.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Resources.Writer.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.Extensions.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.Handles.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.InteropServices.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.Numerics.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.Serialization.Formatters.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.Serialization.Json.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.Serialization.Primitives.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.Serialization.Xml.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Security.Claims.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Security.Cryptography.Algorithms.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Security.Cryptography.Csp.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Security.Cryptography.Encoding.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Security.Cryptography.Primitives.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Security.Principal.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Security.SecureString.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Text.Encoding.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Text.Encoding.Extensions.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Text.RegularExpressions.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Threading.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Threading.Overlapped.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Threading.Tasks.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Threading.Tasks.Parallel.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Threading.Thread.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Threading.ThreadPool.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Threading.Timer.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Xml.ReaderWriter.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Xml.XDocument.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Xml.XmlDocument.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Xml.XmlSerializer.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Xml.XPath.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Xml.XPath.XDocument.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Antlr3.Runtime.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Newtonsoft.Json.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Npgsql.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\RabbitMQ.Client.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Threading.Tasks.Extensions.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.ValueTuple.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.Helpers.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.Mvc.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.Optimization.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.Razor.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.WebPages.Deployment.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.WebPages.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.WebPages.Razor.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\WebGrease.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Npgsql.pdb
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Npgsql.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\RabbitMQ.Client.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Threading.Tasks.Extensions.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.ValueTuple.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.Helpers.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.Mvc.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.Optimization.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.Razor.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.WebPages.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.WebPages.Deployment.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Web.WebPages.Razor.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Newtonsoft.Json.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Antlr3.Runtime.pdb
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\obj\Debug\chatApp.csproj.CoreCompileInputs.cache
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\obj\Debug\chatApp.csproj.CopyComplete
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\obj\Debug\chatApp.dll
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\obj\Debug\chatApp.pdb
+D:\Cources all\All chat Apps\chat 6\ASP-RabbitMQ-chat-Applicaion\chatApp\obj\Debug\chatApp.csprojAssemblyReference.cache
